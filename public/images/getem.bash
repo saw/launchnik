@@ -1,0 +1,1 @@
+xargs wget <logos.txt
